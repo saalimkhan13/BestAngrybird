@@ -34,7 +34,7 @@ function preload(){
     //backdrop = loadImage("sprites/bg.png");
     slingshotBit = loadImage("sprites/sling2.png");
     smoke = loadImage("sprites/smoke.png");
-    overlay = loadImage("sprites/overlay.png")
+    overlay = loadImage("sprites/Overlay.png")
     star1 = loadImage("sprites/star1.png")
     star2 = loadImage("sprites/star2.png")
     star3 = loadImage("sprites/star3.png")
